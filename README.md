@@ -16,5 +16,23 @@
 </div>
 </body>
 </https>
-# Diana
-Diana
+body {
+background-image: 
+url(https://sun9-50.userapi.com/impg/P9E1Smh1fajNIzrT064a8cGlqj8i1QpVD5845A/YHEQRliA85c.jpg?size=639x1280&quality=95&sign=a4b521963bb836bfd5f6f8b6b5e53e32&type=album)
+}
+h1,h2,p {
+    color: white;
+}
+h1 {
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 2em;
+}
+p {
+    font-size: 22px;
+}
+#container {
+    background-color: rgba(29, 29, 29, .7);
+    border: 2px solid #fff;
+}
